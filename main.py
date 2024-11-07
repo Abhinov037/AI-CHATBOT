@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 with st.sidebar:
-    selected = option_menu('NACH KE DIKHAO NA',
+    selected = option_menu('AwaazAI',
                            ['ChatBot',
                             'Image Captioning',
                             'Embed text',
